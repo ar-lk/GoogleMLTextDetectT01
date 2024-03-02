@@ -1,6 +1,6 @@
 This is a test app to initialize Google ML text detection with react-native-image-picker.
 
-![](https://github.com/vishva-simform/TextDetectionOfImage/blob/main/sample/sample_video.gif)
+![](https://github.com/ar-lk/GoogleMLTextDetectT01/blob/main/sample/sample_video.gif)
 
 # Getting Started
 
